@@ -1,3 +1,3 @@
 ---
-target: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CFGWER8JJ738U
+target: https://www.crowdpac.co.uk/campaigns/2379/something-new
 ---
