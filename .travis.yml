@@ -2,7 +2,7 @@
 language: ruby
 sudo: false
 cache: bundler
-rvm: 2.6.4
+rvm: 2.7.0
 script: bundle exec rake $TASK
 addons:
   apt:
